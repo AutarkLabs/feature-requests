@@ -1,2 +1,2 @@
-# feature-requests
-To request features for Autark's apps (or new apps you think we should develop)
+# Autark Feature Request
+Create new issues to request features for Autark's apps or for Aragon in general (new or existing apps, dev tools, etc). We will use these requests to help prioritize our roadmap.
